@@ -1,2 +1,2 @@
 # Currency-Converter
-A web application that helps to compare different currencies
+It is an online application that enables the easy conversion of currency values based on present-day exchange rates.
