@@ -43,3 +43,4 @@ function convertCurrency() {
     } else {
         resultDiv.textContent = "Please fill in all fields.";
     }
+}
